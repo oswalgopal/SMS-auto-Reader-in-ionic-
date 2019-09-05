@@ -1,5 +1,7 @@
 {
   "name": "SmsAutoReadIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
